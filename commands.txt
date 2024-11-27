@@ -1,0 +1,10 @@
+Mkdir archivos
+Cd archivos
+Touch prueba.txt hola.txt
+Ls
+Mv hola.txt prueba2.txt
+Mv prueba.txt prueba1.txt
+Ls
+Rm prueba2.txt
+Cd ..
+Clear
